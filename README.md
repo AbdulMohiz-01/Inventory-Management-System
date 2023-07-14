@@ -1,5 +1,5 @@
 # Inventory Management System
-
+![](https://github.com/AbdulMohiz-01/Inventory-Management-System/blob/main/inventory.png)
 ## Overview
 
 The Inventory Management System is a powerful and user-friendly application that allows users to efficiently manage their inventory, analyze statistics, search products using filters, and perform various operations like adding and deleting products. This system is built using Entity Framework, SQL, C#, and .NET technologies, ensuring a robust and reliable solution for inventory management.
