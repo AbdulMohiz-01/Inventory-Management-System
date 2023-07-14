@@ -33,7 +33,7 @@ To install and run the Inventory Management System locally, follow these steps:
 1. Clone the repository from GitHub:
 
    ```shell
-   git clone https://github.com/your-username/inventory-management-system.git
+   git clone https://github.com/AbdulMohiz-01/inventory-management-system.git
    ```
 
 2. Open the solution file (`InventoryManagementSystem.sln`) in Visual Studio or your preferred IDE.
