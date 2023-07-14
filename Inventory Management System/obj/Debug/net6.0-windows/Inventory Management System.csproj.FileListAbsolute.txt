@@ -1,0 +1,240 @@
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.exe
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.deps.json
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.runtimeconfig.json
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.pdb
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Form1.resources
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.AssemblyInfo.cs
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\refint\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.pdb
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.genruntimeconfig.cache
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\ref\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Properties.Resources.resources
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Dashboard.resources
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.AddProducts.resources
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ViewProducts.resources
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Edit.resources
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.CopyComplete
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ExportToExcel.resources
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohiz\source\repos\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ProductAnalytics.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.exe
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.deps.json
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.runtimeconfig.json
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.pdb
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.AddProducts.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Dashboard.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Edit.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ExportToExcel.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Form1.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ProductAnalytics.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Properties.Resources.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ViewProducts.resources
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.AssemblyInfo.cs
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.CopyComplete
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\refint\Inventory Management System.dll
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.pdb
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.genruntimeconfig.cache
+C:\Users\mohiz\source\repos\New folder\Inventory Management System\Inventory Management System\obj\Debug\net6.0-windows\ref\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.exe
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.deps.json
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.runtimeconfig.json
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Inventory Management System.pdb
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.AddProducts.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Dashboard.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Edit.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ExportToExcel.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Form1.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ProductAnalytics.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.Properties.Resources.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory_Management_System.ViewProducts.resources
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.AssemblyInfo.cs
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.csproj.CopyComplete
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\refint\Inventory Management System.dll
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.pdb
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\Inventory Management System.genruntimeconfig.cache
+C:\Users\mohiz\source\repos\Inventory Management System v2\Inventory Management System\obj\Debug\net6.0-windows\ref\Inventory Management System.dll
